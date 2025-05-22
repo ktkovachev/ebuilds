@@ -1,0 +1,3 @@
+[submodule "ebweb"]
+	path = ebweb
+	url = gitea@git.kovachev.xyz:kiril/ebweb-ebuilds.git
